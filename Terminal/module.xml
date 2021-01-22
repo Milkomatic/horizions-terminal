@@ -1,0 +1,11 @@
+<module id="Terminal" uid="" guid="6d951b65-81d0-44dd-9173-16a5f07718c0" parent="Horizons" priority="10" version="1.0.0" active="true">
+	<name>Terminal</name>
+	<icon />
+	<image />
+	<watermark />
+	<banner />
+	<description />
+	<defaultmap />
+	<encounters random="true" />
+	<credits />
+</module>

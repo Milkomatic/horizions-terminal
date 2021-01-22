@@ -1,0 +1,6 @@
+<resource fileversion="1.0">
+	<screens id="Terminal">
+		<screen name="Root" icon="Monitor" base="terminal_start.htm" url="root" file="" packets="" />
+		<screen name="Engineer" icon="Monitor" base="term_eng.htm" url="t_eng" file="" packets="TCL,VSO,VSS,VDI,VCM,NSB,VDRO,VDG,VDGCL,VDCM,VDCT,VWL,EVD" />
+	</screens>
+</resource>
